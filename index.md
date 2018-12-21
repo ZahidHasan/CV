@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Zahid Hasan's CV
 ---
-# Isaac Newton
+# Zahid Hasan
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="isaac@applesdofall.org">zahid.hasan@msn.com</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">zahidhasan.github.io</a>
 </div>
 
 
