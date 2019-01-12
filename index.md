@@ -85,7 +85,8 @@ __Secondary School Certificate (SSC)__
 _Modelling User-Centered-Trust in Software Systems: Interplay of Trust, Affect and Acceptance Model._ 
 - Hasan, A Krischkowsky, M Tscheligi. 
 - Trust and Trustworthy Computing,Springer. 92-109.
-<br>
+
+`2013`
 _Event-based content management by spontaneous metadata generation and diffusion._ 
 - Khandaker Tabin Hasan, Md Saddam Hossain Mukta, Mir Tafseer Nayeem, Zahid Hasan. 
 - Computational Intelligence and Informatics (CINTI), 2012 IEEE 
