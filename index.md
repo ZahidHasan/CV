@@ -13,34 +13,60 @@ Machine Learning Enthusiastic.
 
 ## Currently
 
-Thinking 
+Thinking in ML
 
 ### Specialized in
 
 Machine Learning, Computer Vision, Statistics, Python, R and HCI
 
 
-MSc in Computer Science
-University of Trento, Italy.
-83% marks (91 out of 110).
-2009 - 2011
-BSc in Computer Science and Engineering
-Stamford University, Bangladesh.
-CGPA: 3.89 (out of 4).
-2003 - 2007
 
 ## Education
 
 `2009 - 2011`
 __MSc in Computer Science
 University of Trento, Italy.__
+- 83% marks (91 out of 110).
 
 `2003 - 2007`
 __BSc in Computer Science and Engineering
 Stamford University, Bangladesh.__
+- CGPA: 3.89 (out of 4).
+
+`1998 - 2000`
+__Higher Secondary Certificate (HSC)__
+- BAF Shaheen College Dhaka, Bangladesh.
+- First Division star marks.
+
+`1998 - 2000`
+__Secondary School Certificate (SSC)__
+- Pabna Zilla School, Pabna, Bangladesh.
+- First Division star marks.
+
+
 
 
 ## Experience
+
+`2011 - 2012`
+__Research Fellow__
+- University of Salzburg, Austria.
+- Trust [ANIKETOS (www.aniketos.eu)]
+- Statistics
+- HCI
+
+`2009 - 2009`
+__Research Assistant__
+- Fondazione Bruno Kessler (FBK), Italy.
+- User eXperiece (UX) and cybersecurity.
+
+`2013 - Present`
+__Assistant Professor, CSE.__
+- Shanto-Mariam University of Creative Technology, Bangladesh.
+
+`2013 - Present`
+__Lecturer, CSE.__
+- Shanto-Mariam University of Creative Technology, Bangladesh.
 
 `2011 - 2012`
 __Research Fellow__
@@ -50,10 +76,12 @@ __Research Fellow__
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=J) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=BRDOsusAAAAJ&hl=en&oi=ao) -->
 
 `2012`
-Modelling User-Centered-Trust in Software Systems: Interplay of Trust, Affect and Acceptance Model. Hasan, A Krischkowsky, M Tscheligi. Trust and Trustworthy Computing,Springer. 92-109
+Modelling User-Centered-Trust in Software Systems: Interplay of Trust, Affect and Acceptance Model. 
+- Hasan, A Krischkowsky, M Tscheligi. 
+- Trust and Trustworthy Computing,Springer. 92-109.
 
 
 
