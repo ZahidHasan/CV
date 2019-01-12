@@ -3,84 +3,57 @@ layout: cv
 title: Zahid Hasan's CV
 ---
 # Zahid Hasan
-Physicist, Mathematician, Cambridge professor.
+Machine Learning Enthusiastic.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">zahid.hasan@msn.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">zahidhasan.github.io</a>
+| <a href="">zahidhasan.github.io</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Thinking 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Machine Learning, Computer Vision, Statistics, Python, R and HCI
 
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+MSc in Computer Science
+University of Trento, Italy.
+83% marks (91 out of 110).
+2009 - 2011
+BSc in Computer Science and Engineering
+Stamford University, Bangladesh.
+CGPA: 3.89 (out of 4).
+2003 - 2007
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2009 - 2011`
+__MSc in Computer Science
+University of Trento, Italy.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2003 - 2007`
+__BSc in Computer Science and Engineering
+Stamford University, Bangladesh.__
 
 
+## Experience
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2011 - 2012`
+__Research Fellow__
+- University of Salzburg, Austria.
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=J) -->
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Modelling User-Centered-Trust in Software Systems: Interplay of Trust, Affect and Acceptance Model. Hasan, A Krischkowsky, M Tscheligi. Trust and Trustworthy Computing,Springer. 92-109
 
 
 
