@@ -11,13 +11,17 @@ Machine Learning Enthusiastic.
 </div>
 
 
-## Currently
+## Summary
+- Involved in EU projects as a Research Fellow at University of Salzburg, Austria.
+- Achieved M.Sc. degree in Computer Science with a focus on Machine Learning and Computer Vision from University of Trento, Italy.
+- Obtained B.Sc. degree in Computer Science & Engineering specialized in Digital Signal Processing.
+- Experienced in Statistical and Predictive Data Analysis.
 
-Thinking in ML
+
 
 ### Specialized in
 
-Machine Learning, Computer Vision, Statistics, Python, R and HCI
+Machine Learning, Computer Vision, Statistics, Python, R, SPSS, SAS and HCI
 
 
 
