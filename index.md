@@ -25,6 +25,29 @@ Machine Learning, Computer Vision, Statistics, Python, R, SPSS, SAS and HCI
 
 
 
+## Experience
+
+`2011 - 2012`
+__Research Fellow__
+- University of Salzburg, Austria.
+- Trust, Statistics, HCI
+
+`2009 - 2009`
+__Research Assistant__
+- Fondazione Bruno Kessler (FBK), Italy.
+- User eXperiece (UX) and Cybersecurity.
+
+`2013 - Present`
+__Assistant Professor, CSE.__
+- Shanto-Mariam University of Creative Technology, Bangladesh.
+
+`2013 - Present`
+__Lecturer, CSE.__
+- Shanto-Mariam University of Creative Technology, Bangladesh.
+
+
+
+
 ## Education
 
 `2009 - 2011`
@@ -50,25 +73,6 @@ __Secondary School Certificate (SSC)__
 
 
 
-## Experience
-
-`2011 - 2012`
-__Research Fellow__
-- University of Salzburg, Austria.
-- Trust, Statistics, HCI
-
-`2009 - 2009`
-__Research Assistant__
-- Fondazione Bruno Kessler (FBK), Italy.
-- User eXperiece (UX) and Cybersecurity.
-
-`2013 - Present`
-__Assistant Professor, CSE.__
-- Shanto-Mariam University of Creative Technology, Bangladesh.
-
-`2013 - Present`
-__Lecturer, CSE.__
-- Shanto-Mariam University of Creative Technology, Bangladesh.
 
 
 
@@ -81,7 +85,7 @@ __Lecturer, CSE.__
 _Modelling User-Centered-Trust in Software Systems: Interplay of Trust, Affect and Acceptance Model._ 
 - Hasan, A Krischkowsky, M Tscheligi. 
 - Trust and Trustworthy Computing,Springer. 92-109.
-<br><br>
+<br>
 _Event-based content management by spontaneous metadata generation and diffusion._ 
 - Khandaker Tabin Hasan, Md Saddam Hossain Mukta, Mir Tafseer Nayeem, Zahid Hasan. 
 - Computational Intelligence and Informatics (CINTI), 2012 IEEE 
