@@ -3,7 +3,7 @@ layout: cv
 title: Zahid Hasan's CV
 ---
 # Zahid Hasan
-Machine Learning Enthusiastic.
+HCI, AI & CyberSec
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">zahid.hasan@msn.com</a>
@@ -55,6 +55,7 @@ __MSc in Computer Science__
 - University of Trento, Italy.
 - 83% marks (91 out of 110).
 
+<!--
 `2003 - 2007`
 __BSc in Computer Science and Engineering__
 - Stamford University, Bangladesh.
@@ -71,7 +72,7 @@ __Secondary School Certificate (SSC)__
 - First Division star marks.
 
 
-
+-->
 
 
 
