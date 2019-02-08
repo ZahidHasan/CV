@@ -3,7 +3,7 @@ layout: cv
 title: Zahid Hasan's CV
 ---
 # Zahid Hasan
-HCI, UX/UI & AI
+HCI, UX/UI, Usability, Prototyping & AI, ML
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">zahid.hasan@msn.com</a>
@@ -20,7 +20,7 @@ HCI, UX/UI & AI
 
 ### Specialized in
 
-Machine Learning, HCI, Usability, DI design, Statistics, Python, R, SPSS.
+Machine Learning, HCI, Usability, DI design, Adobe, Statistics, Python, R, SPSS.
 
 
 
