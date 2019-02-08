@@ -3,7 +3,7 @@ layout: cv
 title: Zahid Hasan's CV
 ---
 # Zahid Hasan
-HCI & AI
+HCI, UX/UI & AI
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">zahid.hasan@msn.com</a>
