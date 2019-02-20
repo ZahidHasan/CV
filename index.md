@@ -3,7 +3,7 @@ layout: cv
 title: Zahid Hasan's CV
 ---
 # Zahid Hasan
-HCI, UX/UI & AI, ML
+AI, ML, HCI, CyberSec
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">zahid.hasan@msn.com</a>
@@ -13,14 +13,14 @@ HCI, UX/UI & AI, ML
 
 ## Summary
 - Involved in EU projects as a Research Fellow at University of Salzburg, Austria.
-- Achieved M.Sc. degree in Computer Science with a focus on HCI from University of Trento, Italy.
+- Achieved M.Sc. degree in Computer Science with a focus on ML & HCI from University of Trento, Italy.
 - Experienced in User Experience (UX), Statistics and Predictive Data Analysis.
 
 
 
 ### Specialized in
 
-Machine Learning, HCI, Usability, DI design, Adobe, Usability, Prototyping, Statistics, Python, R, SPSS.
+Machine Learning, HCI, Usability, Cyber Security, Statistics, Python, R, SPSS.
 
 
 
