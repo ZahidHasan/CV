@@ -13,7 +13,7 @@ AI, ML, HCI, CyberSec
 
 ## Summary
 - Involved in several EU projects as a Research Fellow at University of Salzburg, Austria.
-- Achieved M.Sc. degree in Computer Science with a focus on Machine Learning, Computer Vision & Human Computer Interaction from University of Trento, Italy.
+- Achieved M.Sc. degree in Computer Science with a focus on Computer Vision, AI & HCI from University of Trento, Italy.
 - Experienced in User Experience (UX), Statistics and Predictive Data Analysis.
 
 
