@@ -3,10 +3,10 @@ layout: cv
 title: Zahid Hasan's CV
 ---
 # Zahid Hasan
-AI, ML, HCI, CyberSec
+HCI, ML
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">zahid.hasan@msn.com</a>
+<a href="zahidhasan.github.io">zahid.hasan@msn.com</a>
 | <a href="">zahidhasan.github.io</a>
 </div>
 
@@ -20,7 +20,7 @@ AI, ML, HCI, CyberSec
 
 ### Specialized in
 
-Machine Learning, Computer Vision, Artificial Intellegence, Data Science, HCI, Usability, Cyber Security, Statistics, Python, R, SPSS.
+HCI, Machine Learning, Data Science, Statistics, Python.
 
 
 
