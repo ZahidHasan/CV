@@ -50,7 +50,7 @@ __Assistant Professor, CSE.__
 `2009 - 2011`
 __MSc in Computer Science__
 - University of Trento, Italy.
-- 83% marks (91 out of 110).
+- HCI, ML
 
 <!--
 `2003 - 2007`
@@ -77,7 +77,7 @@ __Secondary School Certificate (SSC)__
 
 ## Publications
 
-A complete list is also available [online](https://scholar.google.com/citations?user=BRDOsusAAAAJ&hl=en&oi=ao)
+A complete list is also available [google scholar](https://scholar.google.com/citations?user=BRDOsusAAAAJ&hl=en&oi=ao)
 
 `2012`
 _Modelling User-Centered-Trust in Software Systems: Interplay of Trust, Affect and Acceptance Model._ 
