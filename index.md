@@ -13,14 +13,14 @@ HCI, ML
 
 ## Summary
 - Involved in several EU projects as a Research Fellow at University of Salzburg, Austria.
-- Achieved M.Sc. degree in Computer Science with a focus on Computer Vision, AI & HCI from University of Trento, Italy.
+- Achieved M.Sc. degree in Computer Science specialized in HCI & Computer Vision from University of Trento, Italy.
 - Experienced in User Experience (UX), Statistics and Predictive Data Analysis.
 
 
 
 ### Specialized in
 
-HCI, Machine Learning, Data Science, Statistics, Python.
+Human-Computer Interaction, User Experience, Usability, Machine Learning, Data Science, Statistics, Python.
 
 
 
@@ -50,7 +50,6 @@ __Assistant Professor, CSE.__
 `2009 - 2011`
 __MSc in Computer Science__
 - University of Trento, Italy.
-- HCI, ML
 
 <!--
 `2003 - 2007`
@@ -103,6 +102,6 @@ _Do aesthetics matter in long-established trust?._
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2020 -->
 
 
