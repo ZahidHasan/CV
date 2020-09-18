@@ -32,19 +32,17 @@ __Research Fellow__
 - Trust, Statistics, HCI
 
 `2009 - 2009`
-__Research Assistant__
+__Intern__
 - Fondazione Bruno Kessler (FBK), Italy.
-- User eXperiece (UX) and Cybersecurity.
+- User experiece (UX) and Cybersecurity.
 
-`2013 - Present`
-__Assistant Professor, CSE.__
-- Shanto-Mariam University of Creative Technology, Bangladesh.
-
-`2013 - Present`
+`2013 - 2016`
 __Lecturer, CSE.__
 - Shanto-Mariam University of Creative Technology, Bangladesh.
 
-
+`2016 - Present`
+__Assistant Professor, CSE.__
+- Shanto-Mariam University of Creative Technology, Bangladesh.
 
 
 ## Education
@@ -79,7 +77,7 @@ __Secondary School Certificate (SSC)__
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.com/citations?user=BRDOsusAAAAJ&hl=en&oi=ao) -->
+A complete list is also available [online](https://scholar.google.com/citations?user=BRDOsusAAAAJ&hl=en&oi=ao)
 
 `2012`
 _Modelling User-Centered-Trust in Software Systems: Interplay of Trust, Affect and Acceptance Model._ 
@@ -92,6 +90,15 @@ _Event-based content management by spontaneous metadata generation and diffusion
 - Computational Intelligence and Informatics (CINTI), 2012 IEEE 
 - 13th International Symposium. 97-102.
 
+`2013`
+_Dynamics of User Experience (UX)._ 
+- Zahid Hasan, Rathindra Chandra Gope. 
+- International Journal of Computer Applications. 18-24 (16).
+
+`2013`
+_Do aesthetics matter in long-established trust?._ 
+- Zahid Hasan, Rathindra Chandra Gope, Mohammed Nasir Uddin. 
+- International Journal of Computer Applications, 975, 8887.
 
 
 <!-- ### Footer
