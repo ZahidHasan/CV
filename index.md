@@ -12,7 +12,7 @@ HCI, ML
 
 
 ## Summary
-- Worked as a research fellow in EU funded project [ANIKETOS](https://cordis.europa.eu/project/id/257930), University of Salzburg, Austria.
+- Research fellow in EU funded project [ANIKETOS](https://cordis.europa.eu/project/id/257930), University of Salzburg, Austria.
 - M.Sc. degree in Computer Science specialized in HCI & Machine Learning from University of Trento, Italy.
 - Experienced in User Experience (UX), Statistics and Predictive Data Analysis.
 
