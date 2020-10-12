@@ -3,7 +3,6 @@ layout: cv
 title: Zahid Hasan's CV
 ---
 # Zahid Hasan
-HCI, ML
 
 <div id="webaddress">
 <a href="zahidhasan.github.io">zahid.hasan@msn.com</a>
@@ -36,12 +35,8 @@ __Intern__
 - Fondazione Bruno Kessler (FBK), Italy.
 - User experiece (UX) and Cybersecurity.
 
-`2013 - 2016`
-__Lecturer, CSE.__
-- Shanto-Mariam University of Creative Technology, Bangladesh.
-
-`2016 - Present`
-__Assistant Professor, CSE.__
+`2013 - Present`
+__Faculty, CSE.__
 - Shanto-Mariam University of Creative Technology, Bangladesh.
 
 
