@@ -12,7 +12,7 @@ title: Zahid Hasan's CV
 
 ## Summary
 - Research fellow in EU funded project [ANIKETOS](https://cordis.europa.eu/project/id/257930), University of Salzburg, Austria.
-- M.Sc. degree in Computer Science specialized in HCI & Machine Learning from University of Trento, Italy.
+- M.Sc. degree in Computer Science specialized in Human-Computer Interaction & Machine Learning from University of Trento, Italy.
 - Experienced in User Experience (UX), Statistics and Predictive Data Analysis.
 
 
@@ -28,16 +28,17 @@ Human-Computer Interaction, User Experience, Usability, Machine Learning, Data S
 `2011 - 2012`
 __Research Fellow__
 - University of Salzburg, Austria.
-- Trust, Statistics, HCI
+- Statistics, Human-Computer Interaction.
 
 `2009 - 2009`
 __Intern__
 - Fondazione Bruno Kessler (FBK), Italy.
-- User experiece (UX) and Cybersecurity.
+- HCI & Cybersecurity.
 
 `2013 - Present`
 __Faculty, CSE.__
 - Shanto-Mariam University of Creative Technology, Bangladesh.
+- Machine Learning, HCI, Python, Statistics.
 
 
 ## Education
