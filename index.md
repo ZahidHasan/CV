@@ -28,7 +28,7 @@ Human-Computer Interaction, User Experience, Usability, Machine Learning, Data S
 `2011 - 2012`
 __Research Fellow__
 - University of Salzburg, Austria.
-- Statistics, Human-Computer Interaction.
+- Statistics, HCI, UX.
 
 `2009 - 2009`
 __Intern__
@@ -38,7 +38,7 @@ __Intern__
 `2013 - Present`
 __Faculty, CSE.__
 - Shanto-Mariam University of Creative Technology, Bangladesh.
-- Machine Learning, Human-Computer Interaction, Python, Statistics.
+- Machine Learning, HCI, UX/Usability, Python, Statistics.
 
 
 ## Education
