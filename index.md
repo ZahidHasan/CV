@@ -35,10 +35,16 @@ __Intern__
 - Fondazione Bruno Kessler (FBK), Italy.
 - HCI & Cybersecurity.
 
+`2008 - 2008`
+__Network Engineer__
+- Transcom Limited.
+- Network Optimization
+
 `2013 - Present`
 __Faculty, CSE.__
 - Shanto-Mariam University of Creative Technology, Bangladesh.
 - Machine Learning, HCI, UX/Usability, Python, Statistics.
+
 
 
 ## Education
