@@ -13,14 +13,12 @@ title: Zahid Hasan's CV
 ## Summary
 - Research fellow in EU project [ANIKETOS](https://cordis.europa.eu/project/id/257930), University of Salzburg, Austria.
 - M.Sc. degree in Computer Science from University of Trento, Italy.
-- Experienced in Machine Learning, HCI, Statistics, Python.
+- Experienced in Machine Learning, Human-Computer Interaction, Statistics, Python, Networking.
 
 
-<!--
 ### Specialized in
 
-Human-Computer Interaction, User Experience, Usability, Machine Learning, Data Science, Statistics, Python.
--->
+User Experience, Usability, Predictive Modeling, Statistics.
 
 
 ## Experience
