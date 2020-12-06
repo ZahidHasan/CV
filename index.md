@@ -15,11 +15,11 @@ title: Zahid Hasan's CV
 - M.Sc. degree in Computer Science from University of Trento, Italy.
 - Experienced in Machine Learning, Human-Computer Interaction, Statistics, Python, Networking.
 
-
+<!--
 ### Specialized in
 
 User Experience, Usability, Predictive Modeling, Statistics.
-
+-->
 
 ## Experience
 
