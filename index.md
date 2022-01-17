@@ -26,22 +26,18 @@ GIS, HCI, Machine Learning.
 `2011 - 2012`
 __Research Fellow__
 - University of Salzburg, Austria.
-- HCI.
 
 `2009 - 2009`
 __Intern__
 - Fondazione Bruno Kessler (FBK), Italy.
-- GIS.
 
 `2008 - 2008`
 __Network Engineer__
 - Transcom Limited.
-- Network Optimization
 
 `2013 - Present`
 __Faculty, CSE.__
-- Shanto-Mariam University of Creative Technology, Bangladesh.
-- Machine Learning, HCI, GIS.
+- Shanto-Mariam University of Creative Technology.
 
 
 
