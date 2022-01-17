@@ -11,14 +11,14 @@ title: Zahid Hasan's CV
 
 
 ## Summary
-- Research fellow in EU project [ANIKETOS](https://cordis.europa.eu/project/id/257930), University of Salzburg, Austria.
+- Research fellow at University of Salzburg, Austria.
 - M.Sc. degree in Computer Science from University of Trento, Italy.
-- Experienced in Machine Learning, Human-Computer Interaction, Statistics, Python, Networking.
+- Experienced in Machine Learning, Human-Computer Interaction, GIS.
 
 <!--
 ### Specialized in
 
-User Experience, Usability, Predictive Modeling, Statistics.
+GIS, HCI, Machine Learning.
 -->
 
 ## Experience
@@ -26,12 +26,12 @@ User Experience, Usability, Predictive Modeling, Statistics.
 `2011 - 2012`
 __Research Fellow__
 - University of Salzburg, Austria.
-- Statistics, HCI, UX.
+- HCI.
 
 `2009 - 2009`
 __Intern__
 - Fondazione Bruno Kessler (FBK), Italy.
-- HCI & Cybersecurity.
+- GIS.
 
 `2008 - 2008`
 __Network Engineer__
@@ -41,7 +41,7 @@ __Network Engineer__
 `2013 - Present`
 __Faculty, CSE.__
 - Shanto-Mariam University of Creative Technology, Bangladesh.
-- Machine Learning, HCI, UX/Usability, Python, Statistics.
+- Machine Learning, HCI, GIS.
 
 
 
